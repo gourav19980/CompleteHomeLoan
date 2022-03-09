@@ -1,0 +1,38 @@
+
+.tablebg{
+    background-image: url(../../../../assets/images/collapsible.jpg);
+}
+.bodyStyle{
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blanchedalmond;
+}
+th{
+   padding-top: 2%;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-weight: 700;
+}
+.btn-secondary{
+    width: 421px;
+    height: 50px;
+    font-weight: 600;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.btn-lg:hover{
+color: rgb(8, 8, 8);
+background-color: rgb(175, 173, 170);
+}
+.btn:focus {
+  color:#fff;
+  background-color: rgb(29, 26, 26);
+  border-color: rgb(8, 8, 8);
+}
+.btn-warning1{
+    background-color: rgb(24, 145, 24);
+    color:#fff;
+}
+.btn-warning2{
+    background-color: rgb(209, 45, 45);
+    color:#fff;
+}
